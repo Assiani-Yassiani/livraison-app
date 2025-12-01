@@ -33,14 +33,6 @@ L’objectif de l’application est de faciliter la gestion des commandes, du su
 
 ---
 
-## 📱 Objectif du projet
-
-Créer une application mobile fonctionnelle permettant :  
-- d'améliorer l’expérience de livraison à domicile  
-- de simplifier la communication entre clients et livreurs  
-- d’optimiser la gestion du flux de livraison en temps réel  
-
----
 
 ## ▶️ Lancer le projet
 
